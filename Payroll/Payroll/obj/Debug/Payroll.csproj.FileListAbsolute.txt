@@ -1,0 +1,7 @@
+C:\Users\Chris\Desktop\C# projects\Payroll\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\C# projects\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\C# projects\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Chris\Desktop\C# projects\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\Chris\Desktop\C# projects\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Chris\Desktop\C# projects\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\Chris\Desktop\C# projects\Payroll\Payroll\obj\Debug\Payroll.pdb

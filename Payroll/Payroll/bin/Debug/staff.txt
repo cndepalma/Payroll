@@ -1,0 +1,4 @@
+Chris, Manager
+Dan, Manager
+Jeff, Admin
+Paul, Admin
